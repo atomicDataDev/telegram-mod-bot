@@ -1,4 +1,4 @@
-# Telegram Moderator Bot V5
+# Telegram Moderator Bot
 
 A multi-purpose Telegram bot for group moderation: automatic new-member approval flow, admin tools, interactive duels, and a daily reputation system in one project.
 
